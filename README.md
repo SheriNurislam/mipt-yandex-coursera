@@ -51,4 +51,4 @@ Certificate link: https://coursera.org/share/7e50bf051ceabf13fe3994274447ed6c
 
 Course link: https://www.coursera.org/learn/javascript-osnovy-i-funktsii
 
-![Certificate](https://github.com/SheriNurislam/mipt-yandex-coursera/blob/main/javascript1-basics%20and%20functions/certificate.pdf)
+![Certificate](https://github.com/SheriNurislam/mipt-yandex-coursera/blob/main/javascript1-basics%20and%20functions/certificate.jpg)
